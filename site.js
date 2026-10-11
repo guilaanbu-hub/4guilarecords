@@ -3,7 +3,7 @@ if (clip && !matchMedia('(prefers-reduced-motion: reduce)').matches && !navigato
   let played = false;
   const observer = new IntersectionObserver(entries => {
     for (const entry of entries) {
-      if (entry.isIntersecting && !played) {
+      if (entry.isIntersecting && !played && (document.getElementById('beat-audio')?.paused ?? true)) {
         played = true;
         clip.play().catch(() => {});
         observer.disconnect();
