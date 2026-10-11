@@ -1,0 +1,227 @@
+[
+  {
+    "id": "beat-00",
+    "title": "Desde abajo",
+    "genre": "Trap",
+    "bpm": 100,
+    "key": "Cm",
+    "duration": 254.48,
+    "src": "beats/audio/00-4guila.mp3"
+  },
+  {
+    "id": "beat-01",
+    "title": "Plug · Shisosa × Shoreline Mafia × Cris MJ",
+    "genre": "Plug",
+    "bpm": null,
+    "key": "G#m",
+    "duration": 213.94,
+    "src": "beats/audio/01-4guila.mp3"
+  },
+  {
+    "id": "beat-02",
+    "title": "Nene de diamantes",
+    "genre": "Trap",
+    "bpm": null,
+    "key": "Dm",
+    "duration": 141.74,
+    "src": "beats/audio/02-4guila.mp3"
+  },
+  {
+    "id": "beat-03",
+    "title": "Me la tuve que buscar",
+    "genre": "Trap",
+    "bpm": null,
+    "key": "Em",
+    "duration": 226.8,
+    "src": "beats/audio/03-4guila.mp3"
+  },
+  {
+    "id": "beat-04",
+    "title": "Alas",
+    "genre": "Drill",
+    "bpm": null,
+    "key": "Dm",
+    "duration": 192.39,
+    "src": "beats/audio/04-4guila.mp3"
+  },
+  {
+    "id": "beat-05",
+    "title": "Dime si te acuerdas",
+    "genre": "Trap",
+    "bpm": null,
+    "key": null,
+    "duration": 189.13,
+    "src": "beats/audio/05-4guila.mp3"
+  },
+  {
+    "id": "beat-06",
+    "title": "Por qué me texteas",
+    "genre": "Trap bouncy",
+    "bpm": 100,
+    "key": "Cm",
+    "duration": 235.57,
+    "src": "beats/audio/06-4guila.mp3"
+  },
+  {
+    "id": "beat-07",
+    "title": "Háblame shory",
+    "genre": "Trap bouncy",
+    "bpm": null,
+    "key": "G# mayor",
+    "duration": 151.56,
+    "src": "beats/audio/07-4guila.mp3"
+  },
+  {
+    "id": "beat-08",
+    "title": "100pre rika",
+    "genre": "Reggaetón",
+    "bpm": null,
+    "key": "C# mayor",
+    "duration": 156.79,
+    "src": "beats/audio/08-4guila.mp3"
+  },
+  {
+    "id": "beat-09",
+    "title": "Party beach",
+    "genre": "Reggaetón",
+    "bpm": null,
+    "key": "Fm",
+    "duration": 154.41,
+    "src": "beats/audio/09-4guila.mp3"
+  },
+  {
+    "id": "beat-10",
+    "title": "Un verano en Reñaca",
+    "genre": "Reggaetón",
+    "bpm": 98,
+    "key": "Am",
+    "duration": 197.2,
+    "src": "beats/audio/10-4guila.mp3"
+  },
+  {
+    "id": "beat-11",
+    "title": "Dile a ese logi",
+    "genre": "Reggaetón",
+    "bpm": 92,
+    "key": "C mayor",
+    "duration": 225.41,
+    "src": "beats/audio/11-4guila.mp3"
+  },
+  {
+    "id": "beat-12",
+    "title": "Trap plug",
+    "genre": "Plug",
+    "bpm": 140,
+    "key": "F#m",
+    "duration": 281.42,
+    "src": "beats/audio/12-4guila.mp3"
+  },
+  {
+    "id": "beat-13",
+    "title": "Trap bouncy",
+    "genre": "Trap bouncy",
+    "bpm": 92,
+    "key": "F#m",
+    "duration": 198.3,
+    "src": "beats/audio/13-4guila.mp3"
+  },
+  {
+    "id": "beat-14",
+    "title": "Sentimental",
+    "genre": "Trap bouncy",
+    "bpm": 90,
+    "key": "Gm",
+    "duration": 234.71,
+    "src": "beats/audio/14-4guila.mp3"
+  },
+  {
+    "id": "beat-15",
+    "title": "Chill bouncy",
+    "genre": "Trap bouncy",
+    "bpm": 117,
+    "key": "E mayor",
+    "duration": 194.93,
+    "src": "beats/audio/15-4guila.mp3"
+  },
+  {
+    "id": "beat-16",
+    "title": "Piratas",
+    "genre": "Trap",
+    "bpm": 80,
+    "key": "Gm",
+    "duration": 224.44,
+    "src": "beats/audio/16-4guila.mp3"
+  },
+  {
+    "id": "beat-17",
+    "title": "Empoderada",
+    "genre": "Jersey club",
+    "bpm": 130,
+    "key": "Gm",
+    "duration": 209.01,
+    "src": "beats/audio/17-4guila.mp3"
+  },
+  {
+    "id": "beat-18",
+    "title": "Maldito",
+    "genre": "Trap",
+    "bpm": 70,
+    "key": "Em",
+    "duration": 274.31,
+    "src": "beats/audio/18-4guila.mp3"
+  },
+  {
+    "id": "beat-19",
+    "title": "Lazer",
+    "genre": "Lazer",
+    "bpm": 136,
+    "key": "D#m",
+    "duration": 141.22,
+    "src": "beats/audio/19-4guila.mp3"
+  },
+  {
+    "id": "beat-20",
+    "title": "Matrioska",
+    "genre": "Trap",
+    "bpm": 92,
+    "key": "C#",
+    "duration": 167.0,
+    "src": "beats/audio/20-4guila.mp3"
+  },
+  {
+    "id": "beat-21",
+    "title": "Oriental city",
+    "genre": "Trap",
+    "bpm": 111,
+    "key": "F#m",
+    "duration": 138.42,
+    "src": "beats/audio/21-4guila.mp3"
+  },
+  {
+    "id": "beat-22",
+    "title": "Shoreline Mafia I",
+    "genre": "Trap",
+    "bpm": 94,
+    "key": "Dm",
+    "duration": 137.9,
+    "src": "beats/audio/22-4guila.mp3"
+  },
+  {
+    "id": "beat-23",
+    "title": "Shoreline Mafia II",
+    "genre": "Trap",
+    "bpm": 94,
+    "key": "Gm",
+    "duration": 163.45,
+    "src": "beats/audio/23-4guila.mp3"
+  },
+  {
+    "id": "beat-25",
+    "title": "Versace",
+    "genre": "Trap",
+    "bpm": 160,
+    "key": "F#m",
+    "duration": 196.55,
+    "src": "beats/audio/25-4guila.mp3"
+  }
+]
